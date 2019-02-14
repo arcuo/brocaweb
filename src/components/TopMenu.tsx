@@ -18,8 +18,6 @@ export class TopMenuItem extends Component<Props> {
     }
 }
 
-
-
 export class TopMenu extends Component {
     render () {
         return (
