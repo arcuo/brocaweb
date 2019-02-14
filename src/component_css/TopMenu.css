@@ -1,0 +1,27 @@
+ul.top-menu {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    height: 15vh;
+    background-color: #333;
+    text-align: center;
+  }
+  
+  li.top-menu-item {
+    display: inline-block;
+    height: 15vh;
+  }
+  
+  li.top-menu-item a {
+    color: white;
+    padding: 0px 8px 0px 8px;
+    margin: auto 0;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li.top-menu-item:hover {
+    background-color: #111;
+  }
